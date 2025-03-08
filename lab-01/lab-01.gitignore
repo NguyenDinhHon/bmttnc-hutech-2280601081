@@ -1,0 +1,6 @@
+# Bỏ qua thư mục ảo của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
